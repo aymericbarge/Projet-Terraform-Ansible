@@ -33,3 +33,9 @@ Projet terraform Ansible
 
 * Ajouter un rôle Ansible pour gérer la configuration du serveur web
 * Créer un playbook multi-hôtes
+
+## Explication du workflow
+
+## Instruction d'executions du Programme
+
+## Capture d'écran du Projet
