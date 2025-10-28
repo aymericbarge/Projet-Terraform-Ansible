@@ -1,0 +1,12 @@
+---
+- name: Configuration du serveur web
+  hosts: web
+  become: true
+  roles:
+    - web
+
+- name: Configuration de la base de données
+  hosts: db
+  become: true
+  roles:
+    - db
