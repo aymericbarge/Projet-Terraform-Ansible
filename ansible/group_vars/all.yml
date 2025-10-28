@@ -2,3 +2,8 @@ app_name: "Terransible"
 web_server: "Nginx"
 db_type: "MySQL"
 project_team: "Je sais pas"
+
+db_name: "webapp"
+db_user: "admin"
+db_password: "supersecret"
+db_port: 3306
