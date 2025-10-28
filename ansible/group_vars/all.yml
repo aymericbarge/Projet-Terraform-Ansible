@@ -1,0 +1,4 @@
+app_name: "Terransible"
+web_server: "Nginx"
+db_type: "MySQL"
+project_team: "Je sais pas"
