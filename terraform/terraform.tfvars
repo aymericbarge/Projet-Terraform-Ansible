@@ -1,0 +1,2 @@
+ansible_ports_nginx=80
+ansible_ports_mysql=3306
